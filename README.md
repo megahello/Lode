@@ -1,3 +1,5 @@
+just red colour
+
 # Lode
 An easy-to-customize bubbly discord theme with lots of **customization/flexibility** to adjust to your likings.
 
